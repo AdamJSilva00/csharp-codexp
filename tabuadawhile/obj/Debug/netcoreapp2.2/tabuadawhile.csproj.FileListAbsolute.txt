@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\tabuadawhile\obj\Debug\netcoreapp2.2\tabuadawhile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\tabuadawhile\obj\Debug\netcoreapp2.2\tabuadawhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\tabuadawhile\obj\Debug\netcoreapp2.2\tabuadawhile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\tabuadawhile\obj\Debug\netcoreapp2.2\tabuadawhile.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\tabuadawhile\bin\Debug\netcoreapp2.2\tabuadawhile.deps.json
+C:\Users\fic\Desktop\C#\tabuadawhile\bin\Debug\netcoreapp2.2\tabuadawhile.runtimeconfig.json
+C:\Users\fic\Desktop\C#\tabuadawhile\bin\Debug\netcoreapp2.2\tabuadawhile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\tabuadawhile\bin\Debug\netcoreapp2.2\tabuadawhile.dll
+C:\Users\fic\Desktop\C#\tabuadawhile\bin\Debug\netcoreapp2.2\tabuadawhile.pdb
+C:\Users\fic\Desktop\C#\tabuadawhile\obj\Debug\netcoreapp2.2\tabuadawhile.dll
+C:\Users\fic\Desktop\C#\tabuadawhile\obj\Debug\netcoreapp2.2\tabuadawhile.pdb

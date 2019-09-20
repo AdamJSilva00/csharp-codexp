@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\C#\while\obj\Debug\netcoreapp2.2\while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\while\obj\Debug\netcoreapp2.2\while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\while\obj\Debug\netcoreapp2.2\while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\while\obj\Debug\netcoreapp2.2\while.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\while1\obj\Debug\netcoreapp2.2\while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\while1\obj\Debug\netcoreapp2.2\while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\while1\obj\Debug\netcoreapp2.2\while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\while1\obj\Debug\netcoreapp2.2\while.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\while1\bin\Debug\netcoreapp2.2\while.deps.json
+C:\Users\fic\Desktop\C#\while1\bin\Debug\netcoreapp2.2\while.runtimeconfig.json
+C:\Users\fic\Desktop\C#\while1\bin\Debug\netcoreapp2.2\while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\while1\bin\Debug\netcoreapp2.2\while.dll
+C:\Users\fic\Desktop\C#\while1\bin\Debug\netcoreapp2.2\while.pdb
+C:\Users\fic\Desktop\C#\while1\obj\Debug\netcoreapp2.2\while.dll
+C:\Users\fic\Desktop\C#\while1\obj\Debug\netcoreapp2.2\while.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\salarioprofissoes\obj\Debug\netcoreapp2.2\salarioprofissoes.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\salarioprofissoes\obj\Debug\netcoreapp2.2\salarioprofissoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\salarioprofissoes\obj\Debug\netcoreapp2.2\salarioprofissoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\salarioprofissoes\obj\Debug\netcoreapp2.2\salarioprofissoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\salarioprofissoes\bin\Debug\netcoreapp2.2\salarioprofissoes.deps.json
+C:\Users\fic\Desktop\C#\salarioprofissoes\bin\Debug\netcoreapp2.2\salarioprofissoes.runtimeconfig.json
+C:\Users\fic\Desktop\C#\salarioprofissoes\bin\Debug\netcoreapp2.2\salarioprofissoes.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\salarioprofissoes\bin\Debug\netcoreapp2.2\salarioprofissoes.dll
+C:\Users\fic\Desktop\C#\salarioprofissoes\bin\Debug\netcoreapp2.2\salarioprofissoes.pdb
+C:\Users\fic\Desktop\C#\salarioprofissoes\obj\Debug\netcoreapp2.2\salarioprofissoes.dll
+C:\Users\fic\Desktop\C#\salarioprofissoes\obj\Debug\netcoreapp2.2\salarioprofissoes.pdb

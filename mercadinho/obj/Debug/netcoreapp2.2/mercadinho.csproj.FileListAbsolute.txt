@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\mercadinho\obj\Debug\netcoreapp2.2\mercadinho.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\mercadinho\obj\Debug\netcoreapp2.2\mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\mercadinho\obj\Debug\netcoreapp2.2\mercadinho.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\mercadinho\obj\Debug\netcoreapp2.2\mercadinho.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\mercadinho\bin\Debug\netcoreapp2.2\mercadinho.deps.json
+C:\Users\fic\Desktop\C#\mercadinho\bin\Debug\netcoreapp2.2\mercadinho.runtimeconfig.json
+C:\Users\fic\Desktop\C#\mercadinho\bin\Debug\netcoreapp2.2\mercadinho.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\mercadinho\bin\Debug\netcoreapp2.2\mercadinho.dll
+C:\Users\fic\Desktop\C#\mercadinho\bin\Debug\netcoreapp2.2\mercadinho.pdb
+C:\Users\fic\Desktop\C#\mercadinho\obj\Debug\netcoreapp2.2\mercadinho.dll
+C:\Users\fic\Desktop\C#\mercadinho\obj\Debug\netcoreapp2.2\mercadinho.pdb

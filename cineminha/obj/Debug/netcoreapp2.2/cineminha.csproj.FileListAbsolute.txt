@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\cineminha\obj\Debug\netcoreapp2.2\cineminha.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\cineminha\obj\Debug\netcoreapp2.2\cineminha.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\cineminha\obj\Debug\netcoreapp2.2\cineminha.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\cineminha\obj\Debug\netcoreapp2.2\cineminha.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\cineminha\bin\Debug\netcoreapp2.2\cineminha.deps.json
+C:\Users\fic\Desktop\C#\cineminha\bin\Debug\netcoreapp2.2\cineminha.runtimeconfig.json
+C:\Users\fic\Desktop\C#\cineminha\bin\Debug\netcoreapp2.2\cineminha.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\cineminha\bin\Debug\netcoreapp2.2\cineminha.dll
+C:\Users\fic\Desktop\C#\cineminha\bin\Debug\netcoreapp2.2\cineminha.pdb
+C:\Users\fic\Desktop\C#\cineminha\obj\Debug\netcoreapp2.2\cineminha.dll
+C:\Users\fic\Desktop\C#\cineminha\obj\Debug\netcoreapp2.2\cineminha.pdb

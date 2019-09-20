@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\rodizioveicular\obj\Debug\netcoreapp2.2\rodizioveicular.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\rodizioveicular\obj\Debug\netcoreapp2.2\rodizioveicular.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\rodizioveicular\obj\Debug\netcoreapp2.2\rodizioveicular.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\rodizioveicular\obj\Debug\netcoreapp2.2\rodizioveicular.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\rodizioveicular\bin\Debug\netcoreapp2.2\rodizioveicular.deps.json
+C:\Users\fic\Desktop\C#\rodizioveicular\bin\Debug\netcoreapp2.2\rodizioveicular.runtimeconfig.json
+C:\Users\fic\Desktop\C#\rodizioveicular\bin\Debug\netcoreapp2.2\rodizioveicular.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\rodizioveicular\bin\Debug\netcoreapp2.2\rodizioveicular.dll
+C:\Users\fic\Desktop\C#\rodizioveicular\bin\Debug\netcoreapp2.2\rodizioveicular.pdb
+C:\Users\fic\Desktop\C#\rodizioveicular\obj\Debug\netcoreapp2.2\rodizioveicular.dll
+C:\Users\fic\Desktop\C#\rodizioveicular\obj\Debug\netcoreapp2.2\rodizioveicular.pdb

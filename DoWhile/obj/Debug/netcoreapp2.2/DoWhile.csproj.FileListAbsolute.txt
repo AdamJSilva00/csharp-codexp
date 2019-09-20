@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.deps.json
+C:\Users\fic\Desktop\C#\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.runtimeconfig.json
+C:\Users\fic\Desktop\C#\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.dll
+C:\Users\fic\Desktop\C#\DoWhile\bin\Debug\netcoreapp2.2\DoWhile.pdb
+C:\Users\fic\Desktop\C#\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.dll
+C:\Users\fic\Desktop\C#\DoWhile\obj\Debug\netcoreapp2.2\DoWhile.pdb

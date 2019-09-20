@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\Escola\obj\Debug\netcoreapp2.2\Escola.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\Escola\obj\Debug\netcoreapp2.2\Escola.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\Escola\obj\Debug\netcoreapp2.2\Escola.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\Escola\obj\Debug\netcoreapp2.2\Escola.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\Escola\bin\Debug\netcoreapp2.2\Escola.deps.json
+C:\Users\fic\Desktop\C#\Escola\bin\Debug\netcoreapp2.2\Escola.runtimeconfig.json
+C:\Users\fic\Desktop\C#\Escola\bin\Debug\netcoreapp2.2\Escola.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\Escola\bin\Debug\netcoreapp2.2\Escola.dll
+C:\Users\fic\Desktop\C#\Escola\bin\Debug\netcoreapp2.2\Escola.pdb
+C:\Users\fic\Desktop\C#\Escola\obj\Debug\netcoreapp2.2\Escola.dll
+C:\Users\fic\Desktop\C#\Escola\obj\Debug\netcoreapp2.2\Escola.pdb
