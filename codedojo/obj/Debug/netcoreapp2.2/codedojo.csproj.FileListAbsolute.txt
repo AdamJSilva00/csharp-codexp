@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\codedojo\obj\Debug\netcoreapp2.2\codedojo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\codedojo\obj\Debug\netcoreapp2.2\codedojo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\codedojo\obj\Debug\netcoreapp2.2\codedojo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\codedojo\obj\Debug\netcoreapp2.2\codedojo.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\codedojo\bin\Debug\netcoreapp2.2\codedojo.deps.json
+C:\Users\fic\Desktop\C#\codedojo\bin\Debug\netcoreapp2.2\codedojo.runtimeconfig.json
+C:\Users\fic\Desktop\C#\codedojo\bin\Debug\netcoreapp2.2\codedojo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\codedojo\bin\Debug\netcoreapp2.2\codedojo.dll
+C:\Users\fic\Desktop\C#\codedojo\bin\Debug\netcoreapp2.2\codedojo.pdb
+C:\Users\fic\Desktop\C#\codedojo\obj\Debug\netcoreapp2.2\codedojo.dll
+C:\Users\fic\Desktop\C#\codedojo\obj\Debug\netcoreapp2.2\codedojo.pdb

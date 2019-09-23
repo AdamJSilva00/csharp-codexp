@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\C#\MediadaSala\obj\Debug\netcoreapp2.2\MediadaSala.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\C#\MediadaSala\obj\Debug\netcoreapp2.2\MediadaSala.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\C#\MediadaSala\obj\Debug\netcoreapp2.2\MediadaSala.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\C#\MediadaSala\obj\Debug\netcoreapp2.2\MediadaSala.AssemblyInfo.cs
+C:\Users\fic\Desktop\C#\MediadaSala\bin\Debug\netcoreapp2.2\MediadaSala.deps.json
+C:\Users\fic\Desktop\C#\MediadaSala\bin\Debug\netcoreapp2.2\MediadaSala.runtimeconfig.json
+C:\Users\fic\Desktop\C#\MediadaSala\bin\Debug\netcoreapp2.2\MediadaSala.runtimeconfig.dev.json
+C:\Users\fic\Desktop\C#\MediadaSala\bin\Debug\netcoreapp2.2\MediadaSala.dll
+C:\Users\fic\Desktop\C#\MediadaSala\bin\Debug\netcoreapp2.2\MediadaSala.pdb
+C:\Users\fic\Desktop\C#\MediadaSala\obj\Debug\netcoreapp2.2\MediadaSala.dll
+C:\Users\fic\Desktop\C#\MediadaSala\obj\Debug\netcoreapp2.2\MediadaSala.pdb
