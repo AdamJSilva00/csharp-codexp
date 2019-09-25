@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\C#\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.AssemblyInfo
 C:\Users\fic\Desktop\C#\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.AssemblyInfo.cs
 C:\Users\fic\Desktop\C#\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.dll
 C:\Users\fic\Desktop\C#\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.pdb
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\bin\Debug\netcoreapp2.2\10pessoas.deps.json
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\bin\Debug\netcoreapp2.2\10pessoas.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\bin\Debug\netcoreapp2.2\10pessoas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\bin\Debug\netcoreapp2.2\10pessoas.dll
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\bin\Debug\netcoreapp2.2\10pessoas.pdb
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.dll
+C:\Users\fic\Desktop\csharp-codexp\10pessoas\obj\Debug\netcoreapp2.2\10pessoas.pdb

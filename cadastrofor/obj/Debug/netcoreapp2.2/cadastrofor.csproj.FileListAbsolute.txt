@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\obj\Debug\netcoreapp2.2\cadastrofor.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\obj\Debug\netcoreapp2.2\cadastrofor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\obj\Debug\netcoreapp2.2\cadastrofor.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\obj\Debug\netcoreapp2.2\cadastrofor.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\bin\Debug\netcoreapp2.2\cadastrofor.deps.json
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\bin\Debug\netcoreapp2.2\cadastrofor.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\bin\Debug\netcoreapp2.2\cadastrofor.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\bin\Debug\netcoreapp2.2\cadastrofor.dll
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\bin\Debug\netcoreapp2.2\cadastrofor.pdb
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\obj\Debug\netcoreapp2.2\cadastrofor.dll
+C:\Users\fic\Desktop\csharp-codexp\cadastrofor\obj\Debug\netcoreapp2.2\cadastrofor.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\obj\Debug\netcoreapp2.2\foreach_comif.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\obj\Debug\netcoreapp2.2\foreach_comif.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\obj\Debug\netcoreapp2.2\foreach_comif.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\obj\Debug\netcoreapp2.2\foreach_comif.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\bin\Debug\netcoreapp2.2\foreach_comif.deps.json
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\bin\Debug\netcoreapp2.2\foreach_comif.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\bin\Debug\netcoreapp2.2\foreach_comif.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\bin\Debug\netcoreapp2.2\foreach_comif.dll
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\bin\Debug\netcoreapp2.2\foreach_comif.pdb
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\obj\Debug\netcoreapp2.2\foreach_comif.dll
+C:\Users\fic\Desktop\csharp-codexp\foreach_comif\obj\Debug\netcoreapp2.2\foreach_comif.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\C#\\10pessoas\\10pessoas.csproj": {}
+    "C:\\Users\\fic\\Desktop\\csharp-codexp\\10pessoas\\10pessoas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\C#\\10pessoas\\10pessoas.csproj": {
+    "C:\\Users\\fic\\Desktop\\csharp-codexp\\10pessoas\\10pessoas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\C#\\10pessoas\\10pessoas.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\csharp-codexp\\10pessoas\\10pessoas.csproj",
         "projectName": "10pessoas",
-        "projectPath": "C:\\Users\\fic\\Desktop\\C#\\10pessoas\\10pessoas.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\csharp-codexp\\10pessoas\\10pessoas.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\C#\\10pessoas\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\csharp-codexp\\10pessoas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

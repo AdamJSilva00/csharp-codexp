@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\forcode\bin\Debug\netcoreapp2.2\forcode.deps.json
+C:\Users\fic\Desktop\csharp-codexp\forcode\bin\Debug\netcoreapp2.2\forcode.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\forcode\bin\Debug\netcoreapp2.2\forcode.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\forcode\bin\Debug\netcoreapp2.2\forcode.dll
+C:\Users\fic\Desktop\csharp-codexp\forcode\bin\Debug\netcoreapp2.2\forcode.pdb
+C:\Users\fic\Desktop\csharp-codexp\forcode\obj\Debug\netcoreapp2.2\forcode.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\forcode\obj\Debug\netcoreapp2.2\forcode.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\forcode\obj\Debug\netcoreapp2.2\forcode.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\forcode\obj\Debug\netcoreapp2.2\forcode.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\forcode\obj\Debug\netcoreapp2.2\forcode.dll
+C:\Users\fic\Desktop\csharp-codexp\forcode\obj\Debug\netcoreapp2.2\forcode.pdb

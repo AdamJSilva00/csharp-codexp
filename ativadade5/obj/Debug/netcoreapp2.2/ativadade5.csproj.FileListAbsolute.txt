@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\bin\Debug\netcoreapp2.2\ativadade5.deps.json
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\bin\Debug\netcoreapp2.2\ativadade5.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\bin\Debug\netcoreapp2.2\ativadade5.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\bin\Debug\netcoreapp2.2\ativadade5.dll
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\bin\Debug\netcoreapp2.2\ativadade5.pdb
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\obj\Debug\netcoreapp2.2\ativadade5.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\obj\Debug\netcoreapp2.2\ativadade5.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\obj\Debug\netcoreapp2.2\ativadade5.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\obj\Debug\netcoreapp2.2\ativadade5.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\obj\Debug\netcoreapp2.2\ativadade5.dll
+C:\Users\fic\Desktop\csharp-codexp\ativadade5\obj\Debug\netcoreapp2.2\ativadade5.pdb
