@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\bin\Debug\netcoreapp2.2\AulaPoo.deps.json
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\bin\Debug\netcoreapp2.2\AulaPoo.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\bin\Debug\netcoreapp2.2\AulaPoo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\bin\Debug\netcoreapp2.2\AulaPoo.dll
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\bin\Debug\netcoreapp2.2\AulaPoo.pdb
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\obj\Debug\netcoreapp2.2\AulaPoo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\obj\Debug\netcoreapp2.2\AulaPoo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\obj\Debug\netcoreapp2.2\AulaPoo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\obj\Debug\netcoreapp2.2\AulaPoo.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\obj\Debug\netcoreapp2.2\AulaPoo.dll
+C:\Users\fic\Desktop\csharp-codexp\AulaPoo\obj\Debug\netcoreapp2.2\AulaPoo.pdb

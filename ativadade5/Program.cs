@@ -57,7 +57,7 @@ namespace ativadade5 {
 
             Console.WriteLine ($"Media de idade das mulheres.   {idf}");
 
-            Console.WriteLine($"Nome:{nome[i]}, sexo:{sexo[i]}, imc:{imc} ");
+            Console.WriteLine($"Nome:{nome}, sexo:{sexo}, imc:{imc} ");
 
         }
     }
