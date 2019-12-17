@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\obj\Debug\netcoreapp2.2\MousePoo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\obj\Debug\netcoreapp2.2\MousePoo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\obj\Debug\netcoreapp2.2\MousePoo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\obj\Debug\netcoreapp2.2\MousePoo.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\bin\Debug\netcoreapp2.2\MousePoo.deps.json
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\bin\Debug\netcoreapp2.2\MousePoo.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\bin\Debug\netcoreapp2.2\MousePoo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\bin\Debug\netcoreapp2.2\MousePoo.dll
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\bin\Debug\netcoreapp2.2\MousePoo.pdb
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\obj\Debug\netcoreapp2.2\MousePoo.dll
+C:\Users\fic\Desktop\csharp-codexp\MousePoo\obj\Debug\netcoreapp2.2\MousePoo.pdb
